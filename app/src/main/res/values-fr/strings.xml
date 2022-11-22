@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nouvelles</string>
+    <string name="news">Nouvelles</string>
+    <string name="settings">Réglages</string>
+    <string name="search">Chercher</string>
+    <string name="share_post">Partager l\'article</string>
+
+    <string name="search_icon">Chercher</string>
+    <string name="close_icon">Proche</string>
+    <string name="more_icon">Suite</string>
+    <string name="share_icon">Partager</string>
+    <string name="media_image">Image média</string>
+    <string name="news_image">Photo d\'actualité</string>
+
+    <string name="error_429">Trop de demandes</string>
+</resources>

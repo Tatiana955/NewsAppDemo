@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Новости</string>
+    <string name="news">Новости</string>
+    <string name="settings">Настройки</string>
+    <string name="search">Поиск</string>
+    <string name="share_post">Поделиться публикацией</string>
+
+    <string name="search_icon">Поиск</string>
+    <string name="close_icon">Закрыть</string>
+    <string name="more_icon">Больше</string>
+    <string name="share_icon">Поделиться</string>
+    <string name="media_image">Медиа изображение</string>
+    <string name="news_image">Новостное изображение</string>
+
+    <string name="error_429">Слишком много запросов</string>
+</resources>
